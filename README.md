@@ -67,32 +67,10 @@ Raw Data Sources
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| Youssef | BI & Data Science Lead |
-| Anis Saidi | Developer |
-| Med Amin Brahmi | Developer |
-| Iheb Kh | Developer |
-| Amira Youssef | Developer |
-
----
-
-## 🎓 Supervision
-
-Developed under the guidance of:
-
-- **Manel Khamassi** — Project Supervisor
-- **Lilia GOSSA** — Project Supervisor
-
----
-
 ## 🏫 Academic Context
 
 **Institution:** ESPRIT — École Supérieure Privée d'Ingénierie et de Technologies
-**Program:** CCCA4 — Business Intelligence & Data Science
-**Project Type:** Capstone / PI-CDIO Project
+**Program:** Business Intelligence & Data Science
 **Year:** 2025–2026
 
 ---
